@@ -9,6 +9,11 @@ The phishing operations program was designed to evaluate user susceptibility to 
 
 ---
 
+<img width="1131" height="682" alt="phishing-reporting" src="https://github.com/user-attachments/assets/61d1dfc7-95ba-4a90-81ce-04a71cd29149" />
+
+
+---
+
 # Environment Overview
 
 | Item | Details |
