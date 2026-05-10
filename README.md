@@ -1,7 +1,6 @@
 
 # readme.md
 
-```markdown
 # Enterprise Phishing Campaign Operations
 
 ## Overview
