@@ -221,64 +221,66 @@ This project demonstrates hands-on experience with:
 - User Risk Analysis
 - Security Reporting
 
----
-
-# Disclaimer
-
-This project is a simulated enterprise phishing operations and security awareness project created for cybersecurity learning, portfolio demonstration, and security operations practice.
 
 ---
 
 # Repository Structure
 
 ```text
-Enterprise-Phishing-Campaign-Operations/
+PHISHING-SIMULATION-OPERATIONS/
 │
-├── README.md
-│
-├── dashboards/
-│   ├── phishing-overview-dashboard.png
-│   ├── phishing-campaigns-dashboard.png
-│   ├── phishing-reporting-dashboard.png
-│   └── phishing-template-management.png
-│
-├── campaigns/
-│   ├── campaigns.md
+├── campaign/
 │   ├── credential-harvesting-campaign.md
-│   ├── hr-social-engineering-campaign.md
+│   ├── data-breach-alert-campaign.md
 │   ├── fake-it-notification-campaign.md
 │   ├── financial-scam-campaign.md
-│   └── data-breach-alert-campaign.md
+│   └── hr-social-engineering-campaign.md
+│
+├── dashboards/
+│   ├── dashboard-active-training-status.png
+│   ├── dashboard-organization-risk-score.png
+│   ├── dashboard-phish-alert-button-report.png
+│   ├── dashboard-phishing.png
+│   ├── dashboard-security-awareness-proficiency-...
+│   └── dashboard-security-culture-survey.png
 │
 ├── metrics/
 │   ├── phishing-metrics-report.md
-│   ├── user-risk-analysis.md
-│   └── remediation-tracking.md
+│   ├── remediation-tracking.md
+│   └── user-risk-analysis.md
 │
-├── workflows/
-│   ├── phishing-response-workflow.md
-│   ├── campaign-scheduling-process.md
-│   ├── remediation-workflow.md
-│   └── user-escalation-process.md
+├── reports/
+│   ├── executive-security-awareness-report.md
+│   ├── phishing-program-maturity-assessment.md
+│   ├── quarterly-phishing-summary.md
+│   └── Reports_Phishing_KnowBe4.pdf
+│
+├── screenshots/
+│   ├── phishing-active-campaigns.png
+│   ├── phishing-browser-usage.png
+│   ├── phishing-domains.png
+│   ├── phishing-prone-percentage.png
+│   ├── phishing-reporting.png
+│   └── phishing-template-library.png
 │
 ├── templates/
 │   ├── phishing-awareness-email-template.md
-│   ├── remediation-assignment-template.md
+│   ├── phishing-reporting-guide.md
 │   ├── phishing-template-library.md
-│   └── phishing-reporting-guide.md
+│   └── remediation-assignment-template.md
 │
-├── screenshots/
-│   ├── active-campaigns.png
-│   ├── phishing-prone-percentage.png
-│   ├── phishing-template-library.png
-│   ├── phishing-domains.png
-│   └── phishing-reporting.png
+├── workflows/
+│   ├── campaign-scheduling-process.md
+│   ├── phishing-response-workflow.md
+│   ├── remediation-workflow.md
+│   └── user-escalation-process.md
 │
-└── reports/
-    ├── quarterly-phishing-summary.md
-    ├── executive-security-awareness-report.md
-    └── phishing-program-maturity-assessment.md
+└── README.md
 ```
+---
 
+# Disclaimer
+
+This project is a simulated enterprise phishing operations and security awareness project created for cybersecurity learning, portfolio demonstration, and security operations practice.
 No real user credentials or sensitive organizational data were collected.
 ```
