@@ -112,7 +112,7 @@ The following security awareness metrics were monitored:
 | Active Campaigns | 4 |
 | Phishing Security Tests | 254 |
 | Organizational PPP | 1.7% |
-| Industry Benchmark PPP | 27.5% |
+| Industry Benchmark PPP | 24.4% |
 
 ---
 
