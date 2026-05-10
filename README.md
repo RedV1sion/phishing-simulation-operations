@@ -283,4 +283,3 @@ PHISHING-SIMULATION-OPERATIONS/
 
 This project is a simulated enterprise phishing operations and security awareness project created for cybersecurity learning, portfolio demonstration, and security operations practice.
 No real user credentials or sensitive organizational data were collected.
-```
