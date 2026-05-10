@@ -95,13 +95,13 @@ The following phishing themes generated the highest interaction rates:
 
 # Department Risk Analysis
 
-| Department | Risk Level | Common Failure Type |
-|---|---|
-| Finance | High | Invoice & BEC phishing |
-| Administrative Staff | High | Credential harvesting |
-| Remote Workforce | High | MFA phishing |
-| Human Resources | Medium | HR social engineering |
-| Clinical Staff | Medium | Security alert phishing |
+| Department | Risk Level | Primary Risk Theme |
+|---|---|---|
+| Finance | High | Business Email Compromise |
+| Administrative Staff | High | Credential Harvesting |
+| Remote Workforce | High | MFA & Microsoft Phishing |
+| Human Resources | Medium | Social Engineering |
+| Clinical Staff | Medium | Security Alert Phishing |
 
 ---
 
