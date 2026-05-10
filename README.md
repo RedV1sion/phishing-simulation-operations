@@ -1,6 +1,4 @@
 
-# readme.md
-
 # Enterprise Phishing Campaign Operations
 
 ## Overview
