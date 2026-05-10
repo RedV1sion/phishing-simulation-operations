@@ -1,57 +1,5 @@
-# Recommended Repository Structure
 
-```text
-Enterprise-Phishing-Campaign-Operations/
-│
-├── README.md
-│
-├── dashboards/
-│   ├── phishing-overview-dashboard.png
-│   ├── phishing-campaigns-dashboard.png
-│   ├── phishing-reporting-dashboard.png
-│   └── phishing-template-management.png
-│
-├── campaigns/
-│   ├── campaigns.md
-│   ├── credential-harvesting-campaign.md
-│   ├── hr-social-engineering-campaign.md
-│   ├── fake-it-notification-campaign.md
-│   ├── financial-scam-campaign.md
-│   └── data-breach-alert-campaign.md
-│
-├── metrics/
-│   ├── phishing-metrics-report.md
-│   ├── user-risk-analysis.md
-│   └── remediation-tracking.md
-│
-├── workflows/
-│   ├── phishing-response-workflow.md
-│   ├── campaign-scheduling-process.md
-│   ├── remediation-workflow.md
-│   └── user-escalation-process.md
-│
-├── templates/
-│   ├── phishing-awareness-email-template.md
-│   ├── remediation-assignment-template.md
-│   ├── phishing-template-library.md
-│   └── phishing-reporting-guide.md
-│
-├── screenshots/
-│   ├── active-campaigns.png
-│   ├── phishing-prone-percentage.png
-│   ├── phishing-template-library.png
-│   ├── phishing-domains.png
-│   └── phishing-reporting.png
-│
-└── reports/
-    ├── quarterly-phishing-summary.md
-    ├── executive-security-awareness-report.md
-    └── phishing-program-maturity-assessment.md
-```
-
----
-
-# campaigns/campaigns.md
+# readme.md
 
 ```markdown
 # Enterprise Phishing Campaign Operations
@@ -281,6 +229,59 @@ This project demonstrates hands-on experience with:
 # Disclaimer
 
 This project is a simulated enterprise phishing operations and security awareness project created for cybersecurity learning, portfolio demonstration, and security operations practice.
+
+---
+
+# Repository Structure
+
+```text
+Enterprise-Phishing-Campaign-Operations/
+│
+├── README.md
+│
+├── dashboards/
+│   ├── phishing-overview-dashboard.png
+│   ├── phishing-campaigns-dashboard.png
+│   ├── phishing-reporting-dashboard.png
+│   └── phishing-template-management.png
+│
+├── campaigns/
+│   ├── campaigns.md
+│   ├── credential-harvesting-campaign.md
+│   ├── hr-social-engineering-campaign.md
+│   ├── fake-it-notification-campaign.md
+│   ├── financial-scam-campaign.md
+│   └── data-breach-alert-campaign.md
+│
+├── metrics/
+│   ├── phishing-metrics-report.md
+│   ├── user-risk-analysis.md
+│   └── remediation-tracking.md
+│
+├── workflows/
+│   ├── phishing-response-workflow.md
+│   ├── campaign-scheduling-process.md
+│   ├── remediation-workflow.md
+│   └── user-escalation-process.md
+│
+├── templates/
+│   ├── phishing-awareness-email-template.md
+│   ├── remediation-assignment-template.md
+│   ├── phishing-template-library.md
+│   └── phishing-reporting-guide.md
+│
+├── screenshots/
+│   ├── active-campaigns.png
+│   ├── phishing-prone-percentage.png
+│   ├── phishing-template-library.png
+│   ├── phishing-domains.png
+│   └── phishing-reporting.png
+│
+└── reports/
+    ├── quarterly-phishing-summary.md
+    ├── executive-security-awareness-report.md
+    └── phishing-program-maturity-assessment.md
+```
 
 No real user credentials or sensitive organizational data were collected.
 ```
