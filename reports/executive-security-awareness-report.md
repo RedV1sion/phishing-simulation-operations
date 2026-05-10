@@ -97,25 +97,12 @@ The following phishing scenarios generated the highest employee interaction rate
 # Department Risk Analysis
 
 | Department | Risk Level | Primary Risk Theme |
-|---|---|
-| Finance | High | Business Email Compromise |
-| Administrative Staff | High | Credential Harvesting |
-| Remote Workforce | High | MFA & Microsoft Phishing |
-| Human Resources | Medium | Social Engineering |
-| Clinical Staff | Medium | Security Alert Phishing |
-
----
-
-## Department Risk Analysis
-
-| Department | Risk Level | Primary Risk Theme |
 |---|---|---|
 | Finance | High | Business Email Compromise |
 | Administrative Staff | High | Credential Harvesting |
 | Remote Workforce | High | MFA & Microsoft Phishing |
 | Human Resources | Medium | Social Engineering |
 | Clinical Staff | Medium | Security Alert Phishing |
-
 
 ---
 
