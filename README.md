@@ -10,6 +10,9 @@ The phishing operations program was designed to evaluate user susceptibility to 
 ---
 
 <img width="1131" height="682" alt="phishing-reporting" src="https://github.com/user-attachments/assets/61d1dfc7-95ba-4a90-81ce-04a71cd29149" />
+---
+
+<img width="1598" height="1230" alt="example-phishing-email-2" src="https://github.com/user-attachments/assets/da04958f-0f6a-4e40-8752-04abf9917bf1" />
 
 
 ---
